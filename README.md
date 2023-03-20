@@ -16,15 +16,6 @@
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=aryan-bakshii.visitor-badge" />
 </p>
 
-#### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/4) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-2. 💪 Opened PR [#3](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/3) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-3. ❌ Closed PR [#2](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/2) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-4. 💪 Opened PR [#2](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/2) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-<!--END_SECTION:activity-->
-
 <!-- Coding Stats -->
 <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-bakshii&show_icons=true&theme=dark" /> <br><br>
