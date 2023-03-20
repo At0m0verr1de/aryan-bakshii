@@ -29,5 +29,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryan-bakshii&show_icons=true&theme=dark" /> <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-bakshii&theme=dark" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bit_by_bits&layout=compact&theme=dark" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryan-bakshii&layout=compact&theme=dark" />  
 </p>
