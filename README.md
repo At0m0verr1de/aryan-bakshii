@@ -1,4 +1,4 @@
-## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Harsh!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshhes&color=brightgreen" alt="harshhes"/> </p>
+## Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Aryan!  <p align="right"> <img src="https://komarev.com/ghpvc/?username=harshhes&color=brightgreen" alt="aryan-bakshii"/> </p>
 
 
 <div id="header" align="center">
