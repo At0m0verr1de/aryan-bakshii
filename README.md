@@ -1,7 +1,7 @@
 ### Hey 👋, I am Aryan!
 - 👨‍🎓 B.E. Computer Science undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India
-- 💖 Interested in collaboration on **MERN** projects.
-- 🌱 Learning full-stack Web (Front/Back/UI-UX) Dev.
+- 💖 Interested in collaboration on **ML/DL** projects.
+- 🌱 Learning AI.
 - 💬 Ask me anything, always willing to help!
 - 📫 Reach out to me any time. I will try to respond within a day. Links follow-
 
