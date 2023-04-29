@@ -3,7 +3,7 @@
 - 💖 Interested in collaboration on **ML/DL** projects.
 - 🌱 Learning AI.
 - 💬 Ask me anything, always willing to help!
-- 📫 Reach out to me any time. I will try to respond within a day. Links follow-
+- 📫 Reach out to me any time. I will try to respond within a day.
 
 <!-- Connection Links -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bakshi-005b27222/)&nbsp;&nbsp;
